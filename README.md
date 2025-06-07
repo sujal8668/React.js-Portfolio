@@ -1,12 +1,51 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built using **React**, **Tailwind CSS**, and **Framer Motion**. This project showcases my web development skills, animations, and design sensibilities in a sleek, user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Utility-first CSS styling
+- **Framer Motion** – Declarative animations and transitions
 
-## Expanding the ESLint configuration
+## 📂 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔥 Hero Section
+- Animated introduction using Framer Motion
+- Eye-catching transitions and entrance effects
+
+### 👤 About Me
+- Split-text animation for clean content reveals
+- Smooth scroll-based transitions
+
+### 💼 Projects Showcase
+- Responsive project cards
+- Hover and scroll animations to highlight projects
+
+### 🛠️ Skills & Tools
+- Icon grid layout styled with Tailwind
+- Animated icons for interactive experience
+
+### 📬 Contact Section
+- Clean form UI
+- Animated elements with smooth transitions
+
+## 📸 Screenshots
+<p align="center">
+<img src="./Screenshot (237).png" width="400">
+<img src="./img/Screenshot (197).png" width="400">
+<img src="./img/Screenshot (198).png" width="400">
+</p>
+
+## 👥 Authors 
+
+👤 **Sujal Parmar**
+
+- GitHub: [@sujal8668](https://github.com/sujal8668)
+- LinkedIn: [@Sujal Parmar](https://www.linkedin.com/in/sujal-parmar-5246882b8/)
+
+
+##  Show support ⭐️
+- I would be happy if you give this repo a star ⭐️ !
+- Feel free to reach out to me via email at [parmarsujal098@gmail.com](mailto:parmarsujal098@gmail.com)💌
+
