@@ -34,7 +34,7 @@ const Navbar = () => {
           <button className="cursor-pointer" onClick={() => handleNavClick('about')}>About</button>
           <button className="cursor-pointer" onClick={() => handleNavClick('portfolio')}>Portfolio</button>
           <button className="cursor-pointer" onClick={() => handleNavClick('contact')}>Contact</button>
-          <a href="/MyResume.pdf" download className="border-2 px-6 py-2 rounded-3xl">Resume</a>
+          <a href="/Resume.pdf" download className="border-2 px-6 py-2 rounded-3xl">Resume</a>
         </div>
 
         <div className="md:hidden ">
@@ -77,7 +77,8 @@ const Navbar = () => {
           >
             Contact
           </button>
-          <Link to="/contact" className="text-xl font-semibold border-2 px-6 py-2 rounded-3xl">Resume</Link>
+          <a href="/Resume.pdf" download className="text-xl font-semibold border-2 px-6 py-2 rounded-3xl">Resume</a>
+
         </div>
       )}
     </nav>
