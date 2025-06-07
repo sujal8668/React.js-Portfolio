@@ -4,6 +4,7 @@ import fleaf from '../assets/fleag.png'
 import award from '../assets/award.png'
 import notes from '../assets/note.png'
 import aigen from '../assets/aigen.png'
+import feedback from '../assets/Feedback.png'
 
 const items = [
   {
@@ -33,10 +34,10 @@ const items = [
   {
     id: 4,
     color: "from-violet-300 to-purple-300",
-    title: "Notes App",
-    desc: "A sleek and responsive Notes app with a modern UI, designed for quick and organized note-taking. It includes dynamic note creation, color-coded notes, pop-ups, day-night mode, and full responsiveness.",
-    img: notes,
-    link: "https://notes-app-eta-umber.vercel.app/",
+    title: "Feedback Web App",
+    desc: "A sleek and responsive Feedback app with a modern UI, designed for quick and organized feedback collection. It includes dynamic feedback creation, color-coded feedback, pop-ups, day-night mode, and full responsiveness.",
+    img: feedback,
+    link: "https://feedback-jet-eight.vercel.app/",
   },
 ];
 
