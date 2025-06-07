@@ -32,9 +32,11 @@ A modern, responsive personal portfolio built using **React**, **Tailwind CSS**,
 
 ## 📸 Screenshots
 <p align="center">
-<img src="./Screenshot (237).png" width="400">
-<img src="./img/Screenshot (197).png" width="400">
-<img src="./img/Screenshot (198).png" width="400">
+<img src="./img/Screenshot (237).png" width="400">
+<img src="./img/Screenshot (238).png" width="400">
+  <img src="./img/Screenshot (239).png" width="400">
+  <img src="./img/Screenshot (240).png" width="400">
+  <img src="./img/Screenshot (241).png" width="400">
 </p>
 
 ## 👥 Authors 
